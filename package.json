@@ -1,0 +1,23 @@
+{
+  "name": "snips-practice-math",
+  "version": "0.1.0",
+  "description": "## Introduction",
+  "main": "action-practiceMath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juergen-im-glueck/snips-practiceMath.git"
+  },
+  "keywords": [],
+  "author": "juergen-im-glueck@posteo.de",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juergen-im-glueck/snips-practiceMath/issues"
+  },
+  "homepage": "https://github.com/juergen-im-glueck/snips-practiceMath#readme",
+  "dependencies": {
+    "hermes-javascript": "^0.3.11"
+  }
+}
