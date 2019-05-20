@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { withHermes } = require('hermes-javascript');
 
 "use strict";
