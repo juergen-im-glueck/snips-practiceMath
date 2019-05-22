@@ -89,7 +89,7 @@ const calculateAnswer = (msg) => {
 
   //const answerCorrect = msg.slots.some(slot => slot.slotName == 'result' && slot.value.value == customData.result)
 
-  const answerSlot = msg.slots.find(slot => slot.slotName === 'result;')
+  const answerSlot = msg.slots.find(slot => slot.slotName === 'result');
 
 
   // if result okay, do a new challenge
