@@ -1,0 +1,7 @@
+Multiplikation, EinMalEins, Plutimikation, Multiplizieren, Mal, die Multiplikation, das EinMalEins, die Plutimikation, das Multiplizieren, das Mal
+Addition, EinsPlusEins, Addieren, Summieren, Plus, die Addition, das EinsPlusEins, das Addieren, das Summieren, das Plus
+Subtraktion, EinsMinusEins, Subtrahieren, Minus, die Subtraktion, das EinsMinusEins, das Subtrahieren, das Minus
+Division, Teilen, EinsGeteiltDurchEins, Geteilt, Durch, die Division, das Teilen, das EinsGeteiltDurchEins, das Geteilt, das Durch
+VerliebteZahlen, VerliebtenZahlen, die VerliebtenZahlen
+Verdoppeln, Verdopplung, Doppeltes, das Verdoppeln, die Verdopplung, das Doppelte
+Halbieren, Halbierung, Hälfte, das Halbieren, die Halbierung, die Hälfte
