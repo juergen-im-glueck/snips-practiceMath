@@ -96,7 +96,7 @@ const calculateAnswer = (msg) => {
   if (answerSlot !== undefined) {
     const answer = answerSlot.value.value;
 
-    if (answer === customData.result) {
+    if (answer == customData.result) {
       const newCustomData = challenge(customData.practiceTyp);
 
       return {
